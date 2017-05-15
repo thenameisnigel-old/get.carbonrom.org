@@ -113,7 +113,7 @@ module.exports = {
 				/** { src: "/stats.html", text: "Download statistics" }, */
 				{ src: "https://github.com/CarbonROM", text: "CarbonROM GitHub", target: "_blank" },
 				{ src: "https://review.carbonrom.org", text: "CarbonROM Review", target: "_blank" },
-                                { src: "http://opengapps.org", text: "Get Google Apps Nougat", target: "_blank" }
+                                { src: "https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192", text: "Get Google Apps", target: "_blank" }
 			],
 
 			/**
