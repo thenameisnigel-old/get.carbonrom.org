@@ -113,7 +113,8 @@ module.exports = {
 				/** { src: "/stats.html", text: "Download statistics" }, */
 				{ src: "https://github.com/CarbonROM", text: "CarbonROM GitHub", target: "_blank" },
 				{ src: "https://review.carbonrom.org", text: "CarbonROM Review", target: "_blank" },
-                                { src: "https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192", text: "Get Google Apps", target: "_blank" }
+                                { src: "https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192", text: "Get Google Apps", target: "_blank" },
+                                { src: "https://basketbuild.com/devs/CarbonROM/.OLD", text: "Archive for old Builds", target: "_blank" }
 			],
 
 			/**
@@ -146,7 +147,8 @@ module.exports = {
 		 * 1) The subdirectory of the rom (if set)
 		 * 2) The filename of the rom
 		 */
-		realRomDownloadBaseUrl: "https://mirror.myself5.de",
+		realRomDownloadBaseUrl: "https://mirrorbits.carbonrom.org",
+//                realRomDownloadBaseUrl: "https://basketbuild.com/uploads/devs/CarbonROM",
 
 		/**
 		 * The base URL for the download-proxy for the full rom downloads (which is handled by
