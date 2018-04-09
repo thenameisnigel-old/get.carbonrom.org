@@ -1,3 +1,7 @@
+/* Import Nunito font. */
+
+@import url(//fonts.googleapis.com/css?family=Nunito:300,400,600,600i,700&subset=latin,latin-ext,cyrillic);
+
 /* Let the sidebar start at the same position as the headline text. */
 .sidebar-nav {
 	margin-top: 20px;
