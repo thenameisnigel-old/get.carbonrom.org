@@ -113,8 +113,8 @@ module.exports = {
 				/** { src: "/stats.html", text: "Download statistics" }, */
 				{ src: "https://github.com/CarbonROM", text: "CarbonROM GitHub", target: "_blank" },
 				{ src: "https://review.carbonrom.org", text: "CarbonROM Review", target: "_blank" },
-                                { src: "http://downloads.codefi.re/jdcteam/javelinanddart/gapps", text: "Get Google Apps", target: "_blank" },
-                                { src: "https://basketbuild.com/devs/CarbonROM/.OLD", text: "Archive for old Builds", target: "_blank" }
+				{ src: "http://downloads.codefi.re/jdcteam/javelinanddart/gapps", text: "Get Google Apps", target: "_blank" },
+				{ src: "https://basketbuild.com/devs/CarbonROM/.OLD", text: "Archive for old Builds", target: "_blank" }
 			],
 
 			/**
@@ -177,7 +177,7 @@ module.exports = {
 		 * Similar to proxyDownloadBaseUrl this is the base-URL used to build each Rom's changelog URL.
 		 * The rom-ID will be added to this as path-parameter.
 		 */
-		changelogBaseUrl: "http://get.carbonrom.org/changelog",
+		changelogBaseUrl: "http://carbonrom.org/changelog",
 
 		/**
 		 * Decides if the download proxy (used for gathering download statistics) is enabled or not.
