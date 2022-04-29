@@ -26,6 +26,6 @@
 		"wintersmith": "^2.3.0",
 		"fs-extra": "^2.0.0",
 		"filesize": "^3.3.0",
-		"async": "^2.0.0"
+		"async": "^2.6.4"
 	}
 }
